@@ -1,2 +1,0 @@
-# raffle
-Begin app
